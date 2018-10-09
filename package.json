@@ -1,0 +1,31 @@
+{
+  "name": "jest-config-ktsn",
+  "version": "0.1.0",
+  "main": "index.js",
+  "description": "Personal Jest configuration",
+  "keywords": [
+    "jest",
+    "config",
+    "preset",
+    "testinge"
+  ],
+  "homepage": "https://github.com/ktsn/jest-config-ktsn",
+  "bugs": {
+    "url": "https://github.com/ktsn/jest-config-ktsn/issues"
+  },
+  "author": {
+    "name": "katashin",
+    "url": "https://github.com/ktsn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ktsn/jest-config-ktsn"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jest-serializer-vue": "^2.0.2",
+    "jest-transform-stub": "^1.0.0",
+    "ts-jest": "^23.10.4",
+    "vue-jest": "^2.6.0"
+  }
+}

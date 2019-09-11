@@ -24,7 +24,7 @@
   "license": "MIT",
   "dependencies": {
     "jest-serializer-vue": "^2.0.2",
-    "jest-transform-stub": "^1.0.0",
+    "jest-transform-stub": "^2.0.0",
     "ts-jest": "^23.10.4",
     "vue-jest": "^2.6.0"
   }
